@@ -1,6 +1,4 @@
-# ITrend
-IT논문 토픽모델링과 키워드 클러스터링을 통한 트렌드 분석 - Pyneer 팀프로젝트
-
-2018년 2학기동안 진행되었던 프로젝트입니다.
-진행했던 관련 파일들이 들어있는 구글드라이브 주소는 아래와 같습니다.
-https://drive.google.com/drive/folders/1VD-aS1k7NBLmMdYPi-1TZwKlqvi1VaQf
+IEEE_scraping_collab.ipynb  :  실제 데이터 가공 과정까지 포함된 최종적으로 크롤링이 진행된 파일
+HTML파싱(간단 보기)-크롤링.ipynb  :  HTML 파싱 방식으로 시도한 크롤링 과정
+Selenium-크롤링.ipynb  :  Selenium 파싱 방식으로 시도한 크롤링 과정
+GraphQL 크롤링.ipynb  :  GraphQL 쿼리문을 통한 핵심 크롤링 과정
